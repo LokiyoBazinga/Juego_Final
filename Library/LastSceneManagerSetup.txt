@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/escenas/proyecto_final.unity
+  isLoaded: 1
+  isActive: 1
